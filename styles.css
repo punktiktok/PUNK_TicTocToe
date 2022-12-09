@@ -3,7 +3,13 @@
     margin: 0;
     font-family: 'Itim', cursive;
 }
+body{
+    height: -webkit-fill-available;
+}
 
+html {
+    height: -webkit-fill-available;
+}
 .background{
     background-color: #172327;
     height: 100vh;
